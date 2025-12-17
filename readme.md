@@ -2,7 +2,7 @@
 
 ---
 
-## Data: 13/12/2025 – 15h-17h
+## Data: 13/12/2025 – 15:00 - 17:00
 
 **Integrantes que trabalharam:**
 - Adria Tavares
@@ -18,7 +18,7 @@
 
 ---
 
-## Data: 15/12/2025 – 18:30h-19h
+## Data: 15/12/2025 – 18:30 - 19:00
 
 **Integrantes que trabalharam:**
 - Elioenai Adalberto
@@ -28,3 +28,14 @@
 - Hash do commit: 00c5bf2
 ---
 
+## Data: 16/12/2025 – 23:00 - 23:21
+
+**Integrantes que trabalharam:**
+- Adria Tavares
+
+**Resumo do que foi feito**
+- Criação do arquivo que manipula o objeto principal e cria as instâncias das classes.
+
+* Hash do commit: 1751951
+
+---
