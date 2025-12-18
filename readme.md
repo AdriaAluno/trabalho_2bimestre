@@ -21,6 +21,8 @@
    Ajustes de código  e correção de erros.
 - Gemini
    Aprendizado Sobre o Readline
+- MDN
+-promessas no js 
 ---
 
 ## Data: 15/12/2025 – 18:30 - 20:00
