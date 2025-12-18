@@ -16,6 +16,11 @@
   - **Ewerton**: Planejamento da divisão e criação da interface dos menus
   - **Elioenai**: Criação e planejamento das classes dos produtos
 
+**Técnologias utilizadas:**
+- ChatGPT
+   Ajustes de código  e correção de erros.
+- Gemini
+   Aprendizado Sobre o Readline
 ---
 
 ## Data: 15/12/2025 – 18:30 - 20:00
