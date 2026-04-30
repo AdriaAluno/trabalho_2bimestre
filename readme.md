@@ -4,6 +4,8 @@
 
 ## Data: 13/12/2025 – 15:00 - 17:00
 
+Ola
+
 **Integrantes que trabalharam:**
 - Adria Tavares
 - Ewerton Evaristo
